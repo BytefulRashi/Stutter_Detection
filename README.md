@@ -3,7 +3,7 @@
 ## Overview
 A machine learning-based application that detects and analyzes stuttering patterns in speech by combining audio and textual analysis. The system provides detailed feedback to help individuals track and improve their speech patterns.
 
-![Stutter Detection Architecture](assets\image.png)
+![Stutter Detection Architecture](assets/image.png)
 
 ## Technical Architecture
 
